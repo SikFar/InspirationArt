@@ -2,7 +2,9 @@ import random
 
 looking_direction = ['up', 'down', 'straight', 'left', 'right']
 opposites = [['up', 'down',], [ 'left', 'right']]
-head_wears = ['dapper hat', 'pirate hat', 'beanie', 'baseball cap', 'crown', 'hoodie', None]
+head_wears = [
+    'viking helmet',
+    'dapper hat', 'pirate hat', 'beanie', 'baseball cap', 'crown', 'hoodie', None]
 emotions = ['happy', 'sad', 'angry']
 mouths_emotions = ['smiling', 'numb', 'sad', 'screaming']
 hair_styles = ['long top, short side', 'long', 'long hair, bun', 'long hair, hanging', 'skinned']
